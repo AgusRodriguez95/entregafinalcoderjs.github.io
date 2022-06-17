@@ -1,0 +1,7 @@
+[
+{"nombre": "Ilustracion1", "precio":4000, "id":1, "imagen":"../imagenes/array/array1.png", "boton": "<button>terrible1<button>"},
+{"nombre": "Ilustracion2", "precio":8000, "id":2, "imagen": "../imagenes/array/array2.png", "boton": "<button>terrible2<button>"},
+{"nombre": "Ilustracion3", "precio":12000, "id":3, "imagen": "../imagenes/array/array3.png", "boton": "<button>terrible3<button>"}
+]
+
+
